@@ -49,7 +49,7 @@ const ContactForm = () => {
           </p>
         </div>
         <div className="contact-col">
-          <h1>Fill the form to get Course PRICE</h1>
+          <h1>Fill the form to know COURSE PRICE</h1>
           <form onSubmit={onSubmit}>
             <label>Your Name</label>
             <input
