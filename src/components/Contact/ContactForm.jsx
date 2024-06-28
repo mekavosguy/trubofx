@@ -39,6 +39,9 @@ const ContactForm = () => {
       </div>
       <div className="contact">
 
+
+        
+       <div className="contact-col">
           <h1>Fill the form to know COURSE PRICE</h1>
           <form onSubmit={onSubmit}>
             <label>Your Name</label>
