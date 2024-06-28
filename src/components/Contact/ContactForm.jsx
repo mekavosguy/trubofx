@@ -38,17 +38,7 @@ const ContactForm = () => {
         </h2>
       </div>
       <div className="contact">
-        <div className="contact-col">
-          <h1>Start Your Forex Trading Journey Today!</h1>
-          <p>
-            Don't miss this unique opportunity to learn Forex trading with no
-            financial risk. Enroll now and unlock the mysteries of the Forex
-            market with our funded accounts and expert guidance. Click the
-            button below to sign up and start your journey to becoming a
-            successful Forex trader!{" "}
-          </p>
-        </div>
-        <div className="contact-col">
+
           <h1>Fill the form to know COURSE PRICE</h1>
           <form onSubmit={onSubmit}>
             <label>Your Name</label>
